@@ -5,5 +5,5 @@ mysqlclient==2.0.3
 pycodestyle==2.7.0
 pyfiglet==0.8.post1
 python-decouple==3.4
-python-dotenv==0.18.0
+python-dotenv==1.2.2
 toml==0.10.2
